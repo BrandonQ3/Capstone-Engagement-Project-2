@@ -1,3 +1,5 @@
+# Capstone Engagement Project 2
+
 Red Vs. Blue Team Project
 Unit Description
 In the second project week, you will work on a Red Team vs. Blue Team scenario in which you will play the role of both pentester and SOC analyst.
